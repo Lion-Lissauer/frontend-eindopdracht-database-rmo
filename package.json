@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jwt-decode": "^3.1.2",
+    "oai-pmh": "^2.0.3",
+    "react-router-dom": "^5.3.0",
+    "react-search-field": "^2.0.1"
+  },
+  "devDependencies": {
+    "oai-pmh2": "^2.1.2"
+  }
+}
